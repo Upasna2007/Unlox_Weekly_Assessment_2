@@ -66,9 +66,6 @@ Analyze an Indian startup funding dataset by performing real-world data cleaning
 - Investor analysis
 - Funding efficiency calculation
 
-## 📷 Sample Output
-
-(Add screenshots here if you want.)
 
 ## 👩‍💻 Author
 Upasna Sunil Bhostekar
